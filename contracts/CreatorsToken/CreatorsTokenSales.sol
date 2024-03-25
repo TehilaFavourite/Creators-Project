@@ -67,4 +67,9 @@ contract NFTSales {
 
         emit BuyNFTEvent(msg.sender, _nftAddress, _buyAmount, totalPrice);
     }
+
 }
+
+
+
+
